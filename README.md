@@ -1,3 +1,43 @@
+
+
+# Generador de Thumbnails creado por Giselle Pagano usando React
+
+Donde el usuario puede subir la imagen que desee.
+
+# Se utilizó Typescript:
+
+Para instalar utilizar el comando:
+
+npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+
+# Se utilizaron las siguientes dependencias externas:
+
+### Material UI
+
+Para instalar utilizar el comando:
+
+npm install @mui/material @emotion/react @emotion/styled
+
+### React Styled Components
+
+Para instalar utilizar el comando:
+
+npm install --save styled-components
+
+npm i @types/styled-components (para Typescript)
+
+### Auth0
+
+Para instalar utilizar el comando:
+
+npm install @auth0/auth0-react
+
+### `npm start`
+
+Para abrir la aplicación
+
+---------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
